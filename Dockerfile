@@ -1,5 +1,5 @@
 # Pull base image 
-From openjdk:8
+FROM openjdk:8
 
 # Maintainer 
 MAINTAINER "kserge2001@yahoo.fr" 
