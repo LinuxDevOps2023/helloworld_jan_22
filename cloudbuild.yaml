@@ -1,7 +1,7 @@
 steps:
 #First Clone from Google Cloud Source Repository  
 - name: 'gcr.io/cloud-builders/git'
-  args: ['clone','https://github.com/kserge2001/helloworld19.git']
+  args: ['clone','https://github.com/LinuxDevOps2023/helloworld_jan_22.git']
 
 #Build the image 
 - name: 'gcr.io/cloud-builders/docker'
